@@ -1,0 +1,46 @@
+.Container {
+   
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
+
+img {
+    margin-left: 50px;
+    height: 350px;
+    width: 280px; 
+    border: solid 1px;
+   }
+   
+.DadosCabe {
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+    
+}
+
+.Academica {
+    margin-left: 50px; 
+    margin-left: 50px;
+    text-align: center;
+}
+
+.Profissional {
+    margin-left: 50px; 
+    margin-left: 50px;
+    text-align: center;
+
+}
+
+.Idiomas {
+    margin-left: 50px;
+    text-align: center;
+}
+
+
+
+
+
